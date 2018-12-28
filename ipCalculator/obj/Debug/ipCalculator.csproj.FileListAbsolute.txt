@@ -1,0 +1,7 @@
+E:\csislab\ipCalculator\ipCalculator\bin\Debug\ipCalculator.exe.config
+E:\csislab\ipCalculator\ipCalculator\bin\Debug\ipCalculator.exe
+E:\csislab\ipCalculator\ipCalculator\bin\Debug\ipCalculator.pdb
+E:\csislab\ipCalculator\ipCalculator\obj\Debug\ipCalculator.csprojAssemblyReference.cache
+E:\csislab\ipCalculator\ipCalculator\obj\Debug\ipCalculator.csproj.CoreCompileInputs.cache
+E:\csislab\ipCalculator\ipCalculator\obj\Debug\ipCalculator.exe
+E:\csislab\ipCalculator\ipCalculator\obj\Debug\ipCalculator.pdb
